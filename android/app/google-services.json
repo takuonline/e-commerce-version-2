@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "104083558451",
+    "firebase_url": "https://taku-online.firebaseio.com",
+    "project_id": "taku-online",
+    "storage_bucket": "taku-online.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104083558451:android:da15f5318f5bd9b6595346",
+        "android_client_info": {
+          "package_name": "takuonline.takuonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104083558451-18na18cuve8668nt0h4h4uboggk9mh74.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQu2fOJngyqjnxfdhDM3VorrXFo6MnQDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104083558451-18na18cuve8668nt0h4h4uboggk9mh74.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
